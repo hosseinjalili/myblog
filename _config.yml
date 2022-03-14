@@ -42,6 +42,9 @@ direction: rtl
 kramdown:
   math_engine: katex
  
+katex:
+    path_to_js: "./assets/js/katex.min.js"
+
 include:
   - _pages
 
