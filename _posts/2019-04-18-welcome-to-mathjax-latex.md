@@ -4,8 +4,7 @@ date: 2022-03-14T14:30:00+03:30
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - latex
 ---
 
 display mode (centered):
