@@ -37,6 +37,7 @@ timezone: IR
 
 lang: fa
 dir: rtl
+direction: rtl
 
 include:
   - _pages
