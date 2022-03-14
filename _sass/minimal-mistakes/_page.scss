@@ -65,6 +65,11 @@ body {
       width: 100%;
       clear: both;
     }
+
+    .page__meta {
+      direction: ltr;
+      text-align: right;
+    }
   }
 }
 
@@ -307,11 +312,6 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-
-.page__meta-readtime {
-  direction: ltr;
-  text-align: right;
 }
 
 .page__meta-sep::before {
