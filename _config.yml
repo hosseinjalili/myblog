@@ -62,6 +62,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-katex
 
 author:
   name   : "سید حسین جلیلی حسن کیاده"
