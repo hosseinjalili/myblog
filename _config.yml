@@ -14,11 +14,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-kramdown:
-  math_engine: katex
- 
-katex:
-    path_to_js: "./assets/js/katex.min.js"
 
 title: روزمرگی ها
 email: hossein.jalili@outlook.com
@@ -46,6 +41,8 @@ lang: fa
 dir: rtl
 direction: rtl
 
+kramdown:
+  math_engine: katex
 
 
 include:
