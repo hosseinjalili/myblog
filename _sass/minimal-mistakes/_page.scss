@@ -66,6 +66,12 @@ body {
       clear: both;
     }
 
+    footer {
+      .page__meta {
+        direction: inherit;
+      }
+    }
+
     .page__meta {
       direction: ltr;
       text-align: right;
