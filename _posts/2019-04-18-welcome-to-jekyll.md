@@ -9,6 +9,10 @@ tags:
 katex: True
 ---
 
+{% latex %} E = mc^2 {% endlatex %}
+
+{% latex centred %} E = mc^2 {% endlatex %}
+
 inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 display mode (centered):
 
