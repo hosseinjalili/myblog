@@ -16,7 +16,9 @@
 
 kramdown:
   math_engine: katex
-
+ 
+katex:
+    path_to_js: "./assets/js/katex.min.js"
 
 title: روزمرگی ها
 email: hossein.jalili@outlook.com
