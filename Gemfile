@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
+gem "katex-block",path:"./_plugins"
 gem "github-pages", group: :jekyll_plugins
 
 gem "tzinfo-data"
@@ -14,5 +14,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
-  gem "katex-block",path:"./_plugins"
+
 end
