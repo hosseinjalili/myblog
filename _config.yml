@@ -39,7 +39,8 @@ lang: fa
 dir: rtl
 direction: rtl
 
-
+kramdown:
+  math_engine: katex
  
 include:
   - _pages
