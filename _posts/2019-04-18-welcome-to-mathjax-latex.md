@@ -2,7 +2,7 @@
 title: "اولین پست ریاضی با KaTeX"
 date: 2022-03-14T14:30:00+03:30
 categories:
-  - بلاگ
+  - math
 tags:
   - katex
 ---
