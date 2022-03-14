@@ -293,8 +293,7 @@ body {
   color: $muted-text-color;
   font-family: $sans-serif;
   font-size: $type-size-6;
-  direction: ltr;
-  text-align: right;
+
   p {
     margin: 0;
   }
@@ -308,6 +307,11 @@ body {
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+.page__meta-readtime {
+  direction: ltr;
+  text-align: right;
 }
 
 .page__meta-sep::before {
