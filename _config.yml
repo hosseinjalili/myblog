@@ -24,6 +24,8 @@ github_username: hosseinjalili
 minimal_mistakes_skin: air
 search: true
 
+locale: "fa-IR"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -33,7 +35,6 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: IR
 
-locale: "fa-IR"
 lang: fa
 dir: rtl
 
