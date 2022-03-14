@@ -39,6 +39,8 @@ lang: fa
 dir: rtl
 direction: rtl
 
+
+ 
 include:
   - _pages
 
@@ -120,3 +122,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+katex:
