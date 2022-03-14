@@ -24,8 +24,6 @@ github_username: hosseinjalili
 minimal_mistakes_skin: air
 search: true
 
-locale:"fa-IR"
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -33,10 +31,11 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone:IR # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: IR
 
-lang:fa
-dir:rtl
+locale: "fa-IR"
+lang: fa
+dir: rtl
 
 include:
   - _pages
